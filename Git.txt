@@ -1,0 +1,13 @@
+Git Essentials 2015 (5/3)
+Introducing GitHub - A Non-Technical Guide 2015 (1/1)
+GitHub Essentials 2015
+Pro Git 2nd edition 2014 (3.5/5)
+Git Pocket Guide 2013 (4.5/19)
+Git - Version Control for Everyone 2013 (4/20)
+Git Recipes - A Problem-Solution Approach 2013 (4/4)
+Version Control with Git 2nd edition 2012 (4.5/45)
+Pragmatic Guide to Git 2010 (4/23)
+Git for Teams - A User-Centered Approach to Creating Efficient Workflows in Git 2010
+GitHub 2010
+Pragmatic Version Control Using Git 2008 (4.5/25)
+Git Fundamentals
